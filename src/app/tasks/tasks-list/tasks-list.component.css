@@ -1,0 +1,12 @@
+.label-success{
+    color:royalblue;
+}
+.label-primary{
+    color:rgb(255, 182, 47);
+}
+.completed{
+    text-decoration: line-through;  
+}
+.spacer {
+    flex: 1 1 auto;
+}
